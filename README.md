@@ -18,4 +18,3 @@ eventEmitter.emit('event2', true); // will log (true, true)
 eventEmitter.emit('event2', 1, 2, 3); // will log (true, [1, 2, 3])
 eventEmitter.emit('event1', false); // will log (true, [1, 2, 3])
 ```
->>>>>>> initial commit
