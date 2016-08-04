@@ -17,6 +17,9 @@
   },
   "author": "Francois-Guillaume Ribreau <npm@fgribreau.com> (http://fgribreau.com/)",
   "license": "MIT",
+  "engines":{
+    "node": "6"
+  },
   "devDependencies": {
     "chai": "^3.5.0",
     "conventional-changelog": "^1.1.0",
