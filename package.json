@@ -1,0 +1,23 @@
+{
+  "name": "join-events",
+  "version": "1.0.0",
+  "description": "Join events stream compatible with event emitter",
+  "keywords": [
+    "eventemitter",
+    "join",
+    "events"
+  ],
+  "main": "join.js",
+  "scripts": {
+    "test": "mocha *.test.js",
+    "test-watch": "mocha -w *.test.js"
+  },
+  "author": "Francois-Guillaume Ribreau <npm@fgribreau.com> (http://fgribreau.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "eventemitter2": "^2.0.2",
+    "mocha": "^3.0.1",
+    "sinon": "^1.17.5"
+  }
+}
