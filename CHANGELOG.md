@@ -1,3 +1,12 @@
+<a name="1.0.2"></a>
+## 1.0.2 (2016-08-04)
+
+* docs(README) ([20efcda](https://github.com/FGRibreau/join-events/commit/20efcda))
+* fix(join) ([916d719](https://github.com/FGRibreau/join-events/commit/916d719))
+* Release v1.0.2. ([ac33225](https://github.com/FGRibreau/join-events/commit/ac33225))
+
+
+
 <a name="1.0.1"></a>
 ## 1.0.1 (2016-08-04)
 
