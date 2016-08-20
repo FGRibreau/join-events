@@ -1,6 +1,6 @@
 # Join-events
 
-[![Build Status](https://img.shields.io/circleci/project/FGRibreau/join-events.svg)](https://circleci.com/gh/FGRibreau/join-events/) [![Deps](	https://img.shields.io/david/FGRibreau/join-events.svg)](https://david-dm.org/FGRibreau/join-events) [![NPM version](https://img.shields.io/npm/v/join-events.svg)](http://badge.fury.io/js/join-events) [![Downloads](http://img.shields.io/npm/dm/join-events.svg)](https://www.npmjs.com/package/join-events) ![extra](https://img.shields.io/badge/actively%20maintained-yes-ff69b4.svg)
+[![Build Status](https://img.shields.io/circleci/project/FGRibreau/join-events.svg)](https://circleci.com/gh/FGRibreau/join-events/) [![Deps](	https://img.shields.io/david/FGRibreau/join-events.svg)](https://david-dm.org/FGRibreau/join-events) [![NPM version](https://img.shields.io/npm/v/join-events.svg)](http://badge.fury.io/js/join-events) [![Downloads](http://img.shields.io/npm/dm/join-events.svg)](https://www.npmjs.com/package/join-events) ![extra](https://img.shields.io/badge/actively%20maintained-yes-ff69b4.svg) [![Twitter Follow](https://img.shields.io/twitter/follow/fgribreau.svg?style=flat)](https://twitter.com/FGRibreau)
 
 > Join events stream compatible with Event Emitter-like APIs... use it when you don't have access to something like RxJS/BaconJS.
 
