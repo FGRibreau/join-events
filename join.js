@@ -10,7 +10,8 @@ function join(source, ...rest) {
   const lastValues = eventNames.map(() => EVENT_NOT_SET);
 
   eventNames.forEach((event, i) => {
-    source.on(event, (...args) => {
+    source.on(event, function(/* ... args */) {
+      const args = Array.prototype.slice.call(arguments); // Array.from
       lastValues[i] = args.length > 1 ? args : args[0];
 
       if(lastValues.every(val => val !== EVENT_NOT_SET)){
