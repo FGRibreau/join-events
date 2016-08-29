@@ -1,6 +1,6 @@
 {
   "name": "join-events",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Join events stream compatible with event emitter",
   "keywords": [
     "eventemitter",
@@ -17,7 +17,7 @@
   },
   "author": "Francois-Guillaume Ribreau <npm@fgribreau.com> (http://fgribreau.com/)",
   "license": "MIT",
-  "engines":{
+  "engines": {
     "node": "6.3"
   },
   "devDependencies": {
