@@ -34,7 +34,6 @@
         "babelify",
         {
           "presets": [
-            "react",
             "es2015"
           ]
         }
