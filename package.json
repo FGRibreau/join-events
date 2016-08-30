@@ -27,5 +27,17 @@
     "eventemitter2": "^2.0.2",
     "mocha": "^3.0.1",
     "sinon": "^1.17.5"
+  },
+  "browserify": {
+    "transform": [
+      [
+        "babelify", {
+          "presets": [
+            "react",
+            "es2015"
+          ]
+        }
+      ]
+    ]
   }
 }
