@@ -1,5 +1,6 @@
 // (em, ...rest, f)
-function join(source, ...rest) {
+function join(source /*, ...rest*/) {
+  const rest = Array.prototype.slice.call(arguments, 1); // Array.from().slice(1)
   const f = rest.pop();
   const eventNames = rest;
 
