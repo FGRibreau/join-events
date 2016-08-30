@@ -1,6 +1,6 @@
 {
   "name": "join-events",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Join events stream compatible with event emitter",
   "keywords": [
     "eventemitter",
@@ -31,7 +31,8 @@
   "browserify": {
     "transform": [
       [
-        "babelify", {
+        "babelify",
+        {
           "presets": [
             "react",
             "es2015"
