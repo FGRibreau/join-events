@@ -1,6 +1,6 @@
 {
   "name": "join-events",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Join events stream compatible with event emitter",
   "keywords": [
     "eventemitter",
